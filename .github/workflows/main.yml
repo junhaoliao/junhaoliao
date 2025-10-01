@@ -32,7 +32,6 @@ jobs:
           config_timezone: America/Toronto
           plugin_followup: yes
           plugin_followup_archived: yes
-          plugin_followup_indepth: yes
           plugin_followup_sections: repositories
           plugin_habits: yes
           plugin_habits_charts: yes
@@ -48,7 +47,6 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_colors: github
-          plugin_languages_indepth: yes
           plugin_languages_limit: 8
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 900
