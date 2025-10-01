@@ -32,7 +32,7 @@ jobs:
           config_timezone: America/Toronto
           plugin_followup: yes
           plugin_followup_archived: yes
-          plugin_followup_sections: repositories
+          plugin_followup_sections: user
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
