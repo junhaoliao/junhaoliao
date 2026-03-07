@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: junhaoliao/metrics@latest
+      - uses: junhaoliao/metrics@main
         with:
           # Your GitHub token
           # The following scopes are required:
